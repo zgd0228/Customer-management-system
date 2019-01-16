@@ -1,0 +1,7 @@
+find name,age from staff_table where age>22
+
+update staff_table set age=22 where name=Alex Li
+
+del from staff_table where id=3
+
+add staff_table Zgd,22,18875009652,IT,2017-01-01
